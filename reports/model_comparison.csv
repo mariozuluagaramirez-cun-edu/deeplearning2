@@ -1,0 +1,4 @@
+modelo,n_clusters,noise_pct,silhouette,davies_bouldin,calinski_harabasz
+K-Means,4,0.0,0.397,0.7557,73976.7
+Jerárquico (Ward),4,0.0,0.3733,0.7676,69729.6
+DBSCAN,3,15.86,0.2498,0.4888,2137.6

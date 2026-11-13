@@ -1,0 +1,6 @@
+# Extra para el notebook 03 (clasificación de reseñas con Hugging Face).
+# En Google Colab torch ya viene instalado; localmente se recomienda una GPU.
+-r requirements.txt
+torch>=2.1
+transformers>=4.46,<5
+accelerate>=0.34

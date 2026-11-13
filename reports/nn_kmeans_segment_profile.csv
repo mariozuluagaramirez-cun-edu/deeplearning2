@@ -1,0 +1,6 @@
+segment,clientes,recencia_media,frecuencia_media,monetario_medio,monetario_mediano,ingresos_totales,review_promedio,entrega_media_dias,retraso_medio_dias,pct_clientes,pct_ingresos,nombre
+0,25230,266.73,1.0,310.18,207.24,7825814.12,4.24,11.45,-16.09,27.03,50.74,0 · Inactivos de alto valor (en riesgo)
+1,17124,251.56,1.0,149.94,110.94,2567565.76,3.41,25.85,0.97,18.34,16.65,1 · Entrega tardía
+2,33597,294.78,1.0,69.36,64.9,2330149.29,4.36,9.07,-14.09,35.99,15.11,2 · Inactivos de ticket bajo (dormidos)
+3,2801,219.81,2.11,308.59,225.55,864357.21,4.21,12.34,-11.9,3.0,5.6,3 · Recurrentes
+4,14605,41.97,1.0,125.61,95.78,1834575.39,4.38,7.0,-9.93,15.64,11.9,4 · Recientes de ticket bajo

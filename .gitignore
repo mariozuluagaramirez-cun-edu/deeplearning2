@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.pytest_cache/
+# SO / editores
+.DS_Store
+.vscode/
+.idea/
+# Datos crudos de Kaggle (pesan ~120 MB): NO se suben. Descárgalos y colócalos en data/raw/
+data/raw/*
+!data/raw/.gitkeep
+!data/raw/README.md
+# Secretos de Streamlit
+.streamlit/secrets.toml
